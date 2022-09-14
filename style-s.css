@@ -1,0 +1,39 @@
+@media (max-width: 375px) {
+    .wrap {
+        width: 375px;
+    }
+    .container {
+        width: 375px;
+    }
+    .header {
+        width: 375px;
+    }
+    .flex-head-menu {
+        width: 375px;
+    }
+    .background {
+        width: 375px;
+    }
+    .background_img {
+        display: none;
+    }
+    .backgroung_text {
+        width: 236px;
+        margin-left: 56px;
+    }
+    .logo {
+        margin-left: 16px;
+    }
+    .search {
+        margin-left: 41px;
+    }
+    .burger-menu {
+        margin-left: 200px;
+    }
+    .sign-form {
+        display: none;
+    }
+    .cart {
+        display: none;
+    }
+}
